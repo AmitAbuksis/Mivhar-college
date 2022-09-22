@@ -1,2 +1,2 @@
 # Mivhar-college
-Lear git with the students
+Learn git with the students
